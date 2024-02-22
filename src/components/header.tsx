@@ -36,7 +36,7 @@ export function Header() {
             alt=""
           />
 
-          <span className="text-sm font-medium text-zinc-100">Rocketseat</span>
+          <span className="text-sm font-medium text-zinc-100">NivoTEAM</span>
 
           <Badge variant="primary">PRO</Badge>
 
@@ -69,7 +69,7 @@ export function Header() {
       <div className="flex items-center gap-3">
         <div className="flex flex-col items-end gap-0.5">
           <span className="text-sm font-medium">Pedro Klein</span>
-          <span className="text-xs text-zinc-400">pedro@nivo.video</span>
+          <span className="text-xs text-zinc-400">pedroklein@nivo.video</span>
         </div>
         <img
           src="https://github.com/pedrohenrikle.png"
